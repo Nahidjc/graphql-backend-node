@@ -202,7 +202,7 @@ query GetGlobalGreetingNode($nodeId: ID) {
   }
 }
 ```
-<img width="1200" alt="output-image" src="https://raw.githubusercontent.com/Nahidjc/graphql-backend-node/refs/heads/master/graphql.png">
+<img width="1440" alt="output-image" src="https://raw.githubusercontent.com/Nahidjc/graphql-backend-node/refs/heads/master/graphql.png">
 
 ## License
 
