@@ -5,7 +5,7 @@ const { verifyToken } = require("./middleware/authMiddleware");
 
 async function bootstrap() {
   const serverApp = express();
-  const port = process.env.PORT || 8000;
+  const port = process.env.PORT || 8088;
 
   serverApp.use(express.json());
 
