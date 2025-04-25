@@ -1,12 +1,11 @@
 {
-  "name": "red-it-backend-exam",
+  "name": "graphql-backend",
   "version": "1.0.0",
-  "description": "Backend exam project for Red IT. GraphQL API using Apollo Server with Bearer token authentication and in-memory JSON datasource.",
+  "description": "GraphQL API using Apollo Server with Bearer token authentication and in-memory JSON datasource.",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "script": "node generate.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "Nahid",
   "license": "MIT",
