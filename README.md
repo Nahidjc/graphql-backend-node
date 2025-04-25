@@ -202,8 +202,7 @@ query GetGlobalGreetingNode($nodeId: ID) {
   }
 }
 ```
-### Example - 2
-```
+
 
 ## License
 
